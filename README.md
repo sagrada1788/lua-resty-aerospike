@@ -1,5 +1,6 @@
 lua-resty-aerospike
 ========
+Thanks for https://github.com/aviramha/aioaerospike
 
 Dependence
 ========
